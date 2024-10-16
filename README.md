@@ -1,0 +1,1 @@
+A smart contract app that allows users send ETH to the smart contract owner, who can then withdraw the funds
